@@ -1,0 +1,49 @@
+# ==============================
+# Data Science
+# ==============================
+numpy
+pandas
+scikit-learn
+
+# ==============================
+# NLP / Transformers
+# ==============================
+datasets
+transformers
+sentence-transformers
+
+# ==============================
+# RAG / Vector Database
+# ==============================
+chromadb
+
+# ==============================
+# Configuration / Validation
+# ==============================
+python-dotenv
+pydantic
+
+# ==============================
+# HTTP / Web Processing
+# ==============================
+httpx
+beautifulsoup4
+
+# ==============================
+# Backend API
+# ==============================
+fastapi
+uvicorn
+
+# ==============================
+# Frontend
+# ==============================
+streamlit
+
+# ==============================
+# Testing / Logging
+# ==============================
+pytest
+loguru
+
+
