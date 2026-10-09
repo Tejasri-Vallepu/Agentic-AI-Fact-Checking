@@ -17,11 +17,7 @@ data/*.csv
 data/*.json
 data/*.jsonl
 
-# Vector database
-data/vector_db/
-chroma/
-chromadb/
-vectorstore/
+
 
 # Models
 *.pkl
