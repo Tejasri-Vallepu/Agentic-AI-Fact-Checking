@@ -46,4 +46,4 @@ streamlit
 pytest
 loguru
 
-
+google-genai
